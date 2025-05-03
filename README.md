@@ -18,11 +18,11 @@ A Discord selfbot designed for backing up and restoring vouches from your discor
 ### Step 1: Clone or download this repository
 
 ```bash
-git clone https://github.com/technixgodly/vouchbot.git
-cd vouchbot-mini
+git clone https://github.com/technixgodly/Vouch-Restorer.git
+cd Vouch-Restorer
 ```
 
-Or simply download the `vouch.min.py` file.
+Or simply download the `vouch.py` file.
 
 ### Step 2: Install dependencies
 
@@ -50,7 +50,7 @@ Replace `your_discord_token_here` with your actual Discord token.
 
 This is a selfbot which means it a user account instead of a bot account. Please be aware:
 
-1. Self-bots violate Discord's Terms of Service
+1. Selfbots violate Discord's Terms of Service
 2. Using self-bots can result in your account getting terminated
 3. This tool is for educational purposes only
 4. Use at your own risk
